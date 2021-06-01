@@ -5,3 +5,6 @@ In this tutorial, we will use it on both by building first an Apollo GraphQL Ser
 
 [Continue reading](https://www.ibrahima-ndaw.com/blog/apollo-graphql-fullstack-app-with-react-and-nodejs/)
 
+A proxy server configuration has been added to proxy node requsts through Fiddler Everywhere.
+Tested on mac, should work on linux and win.
+
